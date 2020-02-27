@@ -1,0 +1,10 @@
+Chingrai
+train MAE 948.39	test MAE 29.61
+train RMSE 1881.75	test RMSE 59.22
+train MAPE 9.06	test MAPE 0.50
+=========================
+chiangmai
+train MAE 3606.63	test MAE 1618.28
+train RMSE 6269.32	test RMSE 3236.56
+train MAPE 14.90	test MAPE 5.99
+=========================
